@@ -1,0 +1,15 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: 2DugCzTW1TkvMJq1g/yLjwKY4rCtF
+ FYLbs1riliWiOo=
+SHA-256-Digest-Manifest: OJSyUGDU1wzEjIgUTQ77ep44BwhoNfk2CWq/7dWcG3g=
+Created-By: 1.8.0_101 (Oracle Corporation)
+
+Name: Resources/icon.icns
+SHA-256-Digest: 367yHr9suImcydf8lSppFPOX8s0etsRV1K9VvTsDyCA=
+
+Name: MacOS/eclipse
+SHA-256-Digest: YUt2iKia1mlpMnGmkXl0/l0poUboA++Uivlv0lS4s0Y=
+
+Name: Info.plist
+SHA-256-Digest: cop3+uFjqov9xcdWt663aNaJ04MdYmQAKg727R9IDeY=
+

@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Built-By: wpopielarski
+Created-By: Apache Maven
+Build-Jdk: 1.8.0_101
+
+Name: META-INF/maven/org.scala-ide/org.scala-ide.sdt.lagom.feature/pom
+ .xml
+SHA-256-Digest: H1h1XnefdCysQOX1kVRoFUlbxvdpiLnxDmOw2GONWdw=
+
+Name: META-INF/maven/org.scala-ide/org.scala-ide.sdt.lagom.feature/pom
+ .properties
+SHA-256-Digest: GhRBrdImfP6DVwjhP/AhDppFK5yOD7Q5n93+RbcyO0M=
+
+Name: feature.xml
+SHA-256-Digest: sBDlt7tmqPQrKB0zv5XLx8Hp7UOpTs4Om24/Cbm1PQQ=
+

@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Built-By: wpopielarski
+Created-By: Apache Maven
+Build-Jdk: 1.8.0_101
+
+Name: META-INF/maven/org.scala.tools.eclipse/org.scala.tools.eclipse.s
+ earch.feature/pom.xml
+SHA-256-Digest: wKvSzEdWdslDfdnu0qYdaW1WG51BSYX+17RWBRAMEUs=
+
+Name: META-INF/maven/org.scala.tools.eclipse/org.scala.tools.eclipse.s
+ earch.feature/pom.properties
+SHA-256-Digest: +dRvmNImD9NH3j7HENlyF+QVXjcrjBwFmZYtqQMS5+k=
+
+Name: feature.xml
+SHA-256-Digest: xIh8nK8ED94SFKyK/tS7vwcMzyznzwyU7qcUHqgZcYE=
+

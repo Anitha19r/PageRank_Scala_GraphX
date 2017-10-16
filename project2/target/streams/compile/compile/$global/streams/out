@@ -1,0 +1,13 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/anitharanganathan/Documents/Scala/project2/src/main/scala/SimpleApp.scala:4:25: object graphx is not a member of package org.apache.spark[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.graphx._[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/anitharanganathan/Documents/Scala/project2/src/main/scala/SimpleApp.scala:35:38: not found: type VertexId[0m
+[0m[[0m[31merror[0m] [0m[0m        def pageHash(title: String): VertexId = {[0m
+[0m[[0m[31merror[0m] [0m[0m                                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/anitharanganathan/Documents/Scala/project2/src/main/scala/SimpleApp.scala:39:28: not found: type VertexId[0m
+[0m[[0m[31merror[0m] [0m[0m        val vertices: RDD[(VertexId, String)] = articles.map(a => (pageHash(a.title), a.title)).cache[0m
+[0m[[0m[31merror[0m] [0m[0m                           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/anitharanganathan/Documents/Scala/project2/src/main/scala/SimpleApp.scala:63:21: not found: value Graph[0m
+[0m[[0m[31merror[0m] [0m[0m        val graph = Graph.fromEdgeTuples(edges_list,1)[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m

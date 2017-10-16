@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Built-By: wpopielarski
+Created-By: Apache Maven
+Build-Jdk: 1.8.0_101
+
+Name: META-INF/maven/org.scalaide/org.scalaide.worksheet.feature/pom.p
+ roperties
+SHA-256-Digest: tRMDQW2/1zBQx3xdB3Ps4v00IuOgnBi7vPluLK1gOSU=
+
+Name: feature.xml
+SHA-256-Digest: OmX7h+053MIrSPAdJhpctnh345y/5PlcDs8TzXUdIkA=
+
+Name: META-INF/maven/org.scalaide/org.scalaide.worksheet.feature/pom.x
+ ml
+SHA-256-Digest: 7ObSbh6YkzZgwDbE2qZHkKNCv9hOPpJCnoDLs7Kqpqw=
+
